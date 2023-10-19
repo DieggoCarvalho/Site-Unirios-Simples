@@ -1,0 +1,15 @@
+/* PHONES - TABLETS */
+
+@media only screen  and (max-width: 768px) {
+    main {
+        margin: 20px 0;
+    }
+
+    p {
+        text-indent: 10px; 
+    }
+
+    .unirios_fachada {
+        width: 200px;
+    }
+}
