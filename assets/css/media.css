@@ -1,6 +1,10 @@
 /* PHONES - TABLETS */
 
 @media only screen  and (max-width: 768px) {
+    .container {
+        max-width: 90%;
+    }
+
     main {
         margin: 20px 0;
     }
